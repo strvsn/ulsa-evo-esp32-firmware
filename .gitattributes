@@ -1,0 +1,6 @@
+# Normalize text files and keep local checkouts on LF to avoid CRLF-only diffs.
+* text=auto eol=lf
+
+# Firmware/build artifacts must never be line-ending normalized.
+*.bin binary
+*.elf binary
