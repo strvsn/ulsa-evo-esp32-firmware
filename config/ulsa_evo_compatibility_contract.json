@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "contractId": "ulsa-evo-esp32-custom-firmware-v1",
+  "hardware": {
+    "mcu": "ESP32-C3",
+    "board": "M5Stamp C3U",
+    "pins": {
+      "i2cSda": 1,
+      "i2cScl": 0,
+      "stm32UartTx": 3,
+      "stm32UartRx": 10,
+      "stm32Boot0": 8,
+      "stm32Reset": 20
+    }
+  },
+  "normalMeasurement": {
+    "requiresOfficialEsp32Image": false,
+    "requiresEsp32ImageAuthenticationByStm32": false,
+    "requiresExactPartitionLayout": false,
+    "transport": "i2c",
+    "i2c": {
+      "frequencyHz": 400000,
+      "defaultAddress": 80,
+      "whoAmIRegister": 255,
+      "deviceId": 234,
+      "minimumRegisterVersion": 14,
+      "snapshotRegister": 32,
+      "snapshotLength": 14
+    },
+    "uartFallback": {
+      "baud": 115200,
+      "format": "8N1",
+      "tokenCount": 8
+    }
+  },
+  "companionApp": {
+    "advertisedService": 6170,
+    "requiredWindCharacteristics": [10867, 10866],
+    "optionalTemperatureCharacteristic": 10862,
+    "ulsaServiceUuid": "E147A12A-67FF-4249-930B-C35D372BA000",
+    "capabilitiesProtocolVersion": 1,
+    "bleInterfaceRevision": 14
+  },
+  "esp32Ota": {
+    "officialFlowRequiresCleanDemoIdentity": true,
+    "identitySchemaVersion": 1,
+    "minimumSlotHeadroomBytes": 131072,
+    "firmwareBudgetsBytes": {
+      "m5stamp-c3u": 1600000,
+      "m5stamp-c3u-initial": 1300000
+    },
+    "requiredPartitions": [
+      {"label": "otadata", "type": "data", "subtype": "ota", "minimumSizeBytes": 8192},
+      {"label": "app0", "type": "app", "subtype": "ota_0", "minimumSizeBytes": 1769472},
+      {"label": "app1", "type": "app", "subtype": "ota_1", "minimumSizeBytes": 1769472}
+    ]
+  },
+  "stm32Update": {
+    "esp32UpdateContractVersion": 3,
+    "minimumEsp32FirmwareVersionPolicy": "informational",
+    "target": "ULSA_EVO_STM32_F411",
+    "baseAddress": "0x08010000",
+    "customBootloaderProtocol": 1,
+    "payloadEncoding": "aes-256-gcm-chunked",
+    "acceptedSignatureKeyIds": ["stm32-fw-prod-2026q3"],
+    "scratchPartition": {
+      "label": "stm32pkg",
+      "type": "data",
+      "subtype": "0x40",
+      "minimumSizeBytes": 524288
+    },
+    "maximumPackageBytes": 524288,
+    "maximumFirmwareBytes": 458240,
+    "packageSizing": {
+      "chunkSizeBytes": 4096,
+      "encryptedFrameOverheadBytes": 28,
+      "chunkTableEntryBytes": 52,
+      "packageHeaderBytes": 92,
+      "manifestBudgetBytes": 4096
+    }
+  },
+  "factoryInitial": {
+    "requiresOfficialCleanIdentity": true,
+    "requiresExactPartitionLayout": true,
+    "officialPartitionLayout": [
+      {"label": "nvs", "type": "data", "subtype": "nvs", "offsetBytes": 36864, "sizeBytes": 20480},
+      {"label": "otadata", "type": "data", "subtype": "ota", "offsetBytes": 57344, "sizeBytes": 8192},
+      {"label": "app0", "type": "app", "subtype": "ota_0", "offsetBytes": 65536, "sizeBytes": 1769472},
+      {"label": "app1", "type": "app", "subtype": "ota_1", "offsetBytes": 1835008, "sizeBytes": 1769472},
+      {"label": "stm32pkg", "type": "data", "subtype": "0x40", "offsetBytes": 3604480, "sizeBytes": 524288},
+      {"label": "coredump", "type": "data", "subtype": "coredump", "offsetBytes": 4128768, "sizeBytes": 65536}
+    ]
+  }
+}

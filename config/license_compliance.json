@@ -1,0 +1,324 @@
+{
+  "schemaVersion": 1,
+  "legalReview": {
+    "status": "pending",
+    "ownerRole": "legal-reviewer",
+    "evidenceRequired": true
+  },
+  "licenseFiles": [
+    {
+      "id": "apache-2.0",
+      "component": "Apache License text used by Apache-licensed components",
+      "license": "Apache-2.0",
+      "kind": "license",
+      "path": "LICENSES/SPDX/Apache-2.0.txt",
+      "url": "https://www.apache.org/licenses/LICENSE-2.0.txt",
+      "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+      "cacheName": "apache-2.0.txt"
+    },
+    {
+      "id": "lgpl-2.1",
+      "component": "LGPL-2.1 license text used by Arduino-ESP32",
+      "license": "LGPL-2.1-or-later",
+      "kind": "license",
+      "path": "LICENSES/SPDX/LGPL-2.1.txt",
+      "url": "https://raw.githubusercontent.com/spdx/license-list-data/8a04f0303d95c4f932210b118588c662665bd383/text/LGPL-2.1-only.txt",
+      "sha256": "5749785c8bdefafcb5d798270ed0a967036fe2ca63dcedade1627565dfef81d2",
+      "cacheName": "lgpl-2.1.txt"
+    },
+    {
+      "id": "lgpl-3.0",
+      "component": "LGPL-3.0 license text used by Adafruit NeoPixel",
+      "license": "LGPL-3.0-only",
+      "kind": "license",
+      "path": "LICENSES/SPDX/LGPL-3.0.txt",
+      "url": "https://raw.githubusercontent.com/spdx/license-list-data/8a04f0303d95c4f932210b118588c662665bd383/text/LGPL-3.0-only.txt",
+      "sha256": "996af0513df21f7496288951c41428a03c174e9e4a9d63665c57d670f845ccb1",
+      "cacheName": "lgpl-3.0.txt"
+    },
+    {
+      "id": "gpl-2.0",
+      "component": "GPL-2.0 license text used by build tools",
+      "license": "GPL-2.0-or-later",
+      "kind": "license",
+      "path": "LICENSES/SPDX/GPL-2.0.txt",
+      "url": "https://raw.githubusercontent.com/spdx/license-list-data/8a04f0303d95c4f932210b118588c662665bd383/text/GPL-2.0-only.txt",
+      "sha256": "aaf135472f81c5b4a0dca9367e5bb5e9750032b5bebe5442b36e4c0a47430df3",
+      "cacheName": "gpl-2.0.txt"
+    },
+    {
+      "id": "mit",
+      "component": "MIT license text used by MIT-licensed libraries",
+      "license": "MIT",
+      "kind": "license",
+      "path": "LICENSES/SPDX/MIT.txt",
+      "url": "https://raw.githubusercontent.com/spdx/license-list-data/8a04f0303d95c4f932210b118588c662665bd383/text/MIT.txt",
+      "sha256": "6d7c9e9d7d12c8d3753bdb24417b84819ba4d6c2f025c37948113d86dc81eef9",
+      "cacheName": "mit.txt"
+    },
+    {
+      "id": "bsd-3-clause",
+      "component": "BSD-3-Clause text used by bundled components",
+      "license": "BSD-3-Clause",
+      "kind": "license",
+      "path": "LICENSES/SPDX/BSD-3-Clause.txt",
+      "url": "https://raw.githubusercontent.com/spdx/license-list-data/8a04f0303d95c4f932210b118588c662665bd383/text/BSD-3-Clause.txt",
+      "sha256": "5a93d5831e1297ab10fe643e1a631e83be392896da14ee2951285a79012df69d",
+      "cacheName": "bsd-3-clause.txt"
+    },
+    {
+      "id": "bsd-2-clause",
+      "component": "ESP-IDF bundled SDK",
+      "license": "BSD-2-Clause",
+      "kind": "license",
+      "path": "LICENSES/SPDX/BSD-2-Clause.txt",
+      "url": "https://raw.githubusercontent.com/spdx/license-list-data/8a04f0303d95c4f932210b118588c662665bd383/text/BSD-2-Clause.txt",
+      "sha256": "f32fb3b417a194167cfad068223fc975ba96c5960513a10f66a3c28720aec1df",
+      "cacheName": "bsd-2-clause.txt"
+    },
+    {
+      "id": "libsodium-isc",
+      "component": "ESP-IDF bundled SDK",
+      "license": "ISC",
+      "kind": "license",
+      "path": "LICENSES/components/ESP-IDF/libsodium-LICENSE.txt",
+      "url": "https://raw.githubusercontent.com/jedisct1/libsodium/1.0.18/LICENSE",
+      "sha256": "dea1855c9809f3faf22aa4a1fba20ec8af5a5587f23115012e5b98279cedc4af",
+      "cacheName": "esp-idf-libsodium-license.txt"
+    },
+    {
+      "id": "platformio-core",
+      "component": "PlatformIO Core",
+      "license": "Apache-2.0",
+      "kind": "package-license",
+      "path": "LICENSES/components/platformio-core/LICENSE",
+      "url": "https://raw.githubusercontent.com/platformio/platformio-core/v6.1.18/LICENSE",
+      "sha256": "aa53ae6e1f414b3f3041b66b7394ac86f740cb86cfb096ad89495ab74efcfd05",
+      "cacheName": "platformio-core-license.txt"
+    },
+    {
+      "id": "platformio-espressif32",
+      "component": "PlatformIO Espressif 32",
+      "license": "Apache-2.0",
+      "kind": "package-license",
+      "path": "LICENSES/components/platformio-espressif32/LICENSE",
+      "url": "https://raw.githubusercontent.com/platformio/platform-espressif32/v6.12.0/LICENSE",
+      "sha256": "aa53ae6e1f414b3f3041b66b7394ac86f740cb86cfb096ad89495ab74efcfd05",
+      "cacheName": "platformio-espressif32-license.txt"
+    },
+    {
+      "id": "arduino-esp32",
+      "component": "Arduino-ESP32",
+      "license": "LGPL-2.1-or-later",
+      "kind": "package-license",
+      "path": "LICENSES/components/arduino-esp32/LICENSE.md",
+      "url": "https://raw.githubusercontent.com/espressif/arduino-esp32/2.0.17/LICENSE.md",
+      "sha256": "994ce1902a23c74519b5d118c6bbb657edabce91dd6b7cc825d86bb8f5c9780f",
+      "cacheName": "arduino-esp32-license-md.txt",
+      "localCandidates": [
+        ".pio/libdeps/*/framework-arduinoespressif32/LICENSE.md"
+      ]
+    },
+    {
+      "id": "m5gfx",
+      "component": "M5GFX",
+      "license": "MIT",
+      "kind": "package-license",
+      "path": "LICENSES/components/M5GFX/LICENSE",
+      "url": "https://raw.githubusercontent.com/m5stack/M5GFX/3944fedcaa7999b3c8943dfce972d804cb6dacc5/LICENSE",
+      "sha256": "2076614535b2a8ea22d46dc9c5469a924e1a726e9d81a7cb2723a5e9833fe7a3",
+      "cacheName": "m5gfx-license.txt",
+      "localCandidates": [
+        ".pio/libdeps/*/M5GFX/LICENSE"
+      ]
+    },
+    {
+      "id": "m5unified",
+      "component": "M5Unified",
+      "license": "MIT",
+      "kind": "package-license",
+      "path": "LICENSES/components/M5Unified/LICENSE",
+      "url": "https://raw.githubusercontent.com/m5stack/M5Unified/8108bfad04a20ff4e57c0751f62dd6fdf6b137a6/LICENSE",
+      "sha256": "44611d917bece311f5c8eeffce83d8bf9e9ca3f815d262f694ff4a7996af50ea",
+      "cacheName": "m5unified-license.txt",
+      "localCandidates": [
+        ".pio/libdeps/*/M5Unified/LICENSE"
+      ]
+    },
+    {
+      "id": "adafruit-neopixel",
+      "component": "Adafruit NeoPixel",
+      "license": "LGPL-3.0-only",
+      "kind": "package-license",
+      "path": "LICENSES/components/Adafruit-NeoPixel/COPYING",
+      "url": "https://raw.githubusercontent.com/adafruit/Adafruit_NeoPixel/d514fc3beae85dd4c2b19781b93faa47bd6e996f/COPYING",
+      "sha256": "da7eabb7bafdf7d3ae5e9f223aa5bdc1eece45ac569dc21b3b037520b4464768",
+      "cacheName": "adafruit-neopixel-copying.txt",
+      "localCandidates": [
+        ".pio/libdeps/*/Adafruit NeoPixel/COPYING"
+      ]
+    },
+    {
+      "id": "nimble-arduino",
+      "component": "NimBLE-Arduino",
+      "license": "Apache-2.0",
+      "kind": "package-license",
+      "path": "LICENSES/components/NimBLE-Arduino/LICENSE",
+      "url": "https://raw.githubusercontent.com/h2zero/NimBLE-Arduino/e2b40749ef1e1aae9b1f5b2647d2bbadc5abb44f/LICENSE",
+      "sha256": "b0930510b13ccffb6f19c0e22aa2321c2df2c461279d9c7493f5dcafa5c6f76a",
+      "cacheName": "nimble-license.txt",
+      "localCandidates": [
+        ".pio/libdeps/*/NimBLE-Arduino/LICENSE"
+      ]
+    },
+    {
+      "id": "ace-common",
+      "component": "AceCommon",
+      "license": "MIT",
+      "kind": "package-license",
+      "path": "LICENSES/components/AceCommon/LICENSE",
+      "url": "https://raw.githubusercontent.com/bxparks/AceCommon/8698645868ac4e6631b8fa3d8308d77377b507bd/LICENSE",
+      "sha256": "0fde25122dfe0c449c0155e52d9b2b64107f908c997c7a91e832939a2a2cca57",
+      "cacheName": "ace-common-license.txt",
+      "localCandidates": [
+        ".pio/libdeps/*/AceCommon/LICENSE"
+      ]
+    },
+    {
+      "id": "ace-sorting",
+      "component": "AceSorting",
+      "license": "MIT",
+      "kind": "package-license",
+      "path": "LICENSES/components/AceSorting/LICENSE",
+      "url": "https://raw.githubusercontent.com/bxparks/AceSorting/e58dd60a3f3efb09e877c2c8a144f40627ba3359/LICENSE",
+      "sha256": "1a2d9ab2defa4f90eb5aa1955734335adceeecba445ef31f05d14cdec75b7ff4",
+      "cacheName": "ace-sorting-license.txt",
+      "localCandidates": [
+        ".pio/libdeps/*/AceSorting/LICENSE"
+      ]
+    },
+    {
+      "id": "ace-time",
+      "component": "AceTime",
+      "license": "MIT",
+      "kind": "package-license",
+      "path": "LICENSES/components/AceTime/LICENSE",
+      "url": "https://raw.githubusercontent.com/bxparks/AceTime/3dc2f58811e153e02bd16161da579dd201746372/LICENSE",
+      "sha256": "2afc3e3dbd279216398b20ef0de9275441cb7c2d58ca71b7df794d29d587c283",
+      "cacheName": "ace-time-license.txt",
+      "localCandidates": [
+        ".pio/libdeps/*/AceTime/LICENSE"
+      ]
+    },
+    {
+      "id": "nimble-notice",
+      "component": "NimBLE-Arduino",
+      "license": "Apache-2.0",
+      "kind": "notice",
+      "path": "LICENSES/components/NimBLE-Arduino/NOTICE",
+      "url": "https://raw.githubusercontent.com/h2zero/NimBLE-Arduino/e2b40749ef1e1aae9b1f5b2647d2bbadc5abb44f/src/nimble/NOTICE",
+      "sha256": "99f8311c2ed9af65a5939eea186e7a270ba99aa821f777b00bd6354ac46bf462",
+      "cacheName": "nimble-notice.txt",
+      "localCandidates": [
+        ".pio/libdeps/*/NimBLE-Arduino/src/nimble/NOTICE"
+      ]
+    },
+    {
+      "id": "tinycrypt-bsd",
+      "component": "NimBLE-Arduino tinycrypt",
+      "license": "BSD-3-Clause",
+      "kind": "license",
+      "path": "LICENSES/components/NimBLE-Arduino/tinycrypt-LICENSE",
+      "url": "https://raw.githubusercontent.com/h2zero/NimBLE-Arduino/e2b40749ef1e1aae9b1f5b2647d2bbadc5abb44f/src/nimble/ext/tinycrypt/LICENSE",
+      "sha256": "b2d451fcba3577b118741d733d37ebd15bdd0b6b381e554a7345bdbfa3743108",
+      "cacheName": "tinycrypt-license.txt",
+      "localCandidates": [
+        ".pio/libdeps/*/NimBLE-Arduino/src/nimble/ext/tinycrypt/LICENSE"
+      ]
+    },
+    {
+      "id": "esp-idf-license",
+      "component": "ESP-IDF bundled SDK",
+      "license": "Apache-2.0",
+      "kind": "package-license",
+      "path": "LICENSES/components/ESP-IDF/LICENSE",
+      "url": "https://raw.githubusercontent.com/espressif/esp-idf/v4.4.7/LICENSE",
+      "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+      "cacheName": "esp-idf-license.txt"
+    },
+    {
+      "id": "esp-idf-copyright",
+      "component": "ESP-IDF bundled SDK",
+      "license": "Multiple (see COPYRIGHT.rst)",
+      "kind": "notice",
+      "path": "LICENSES/components/ESP-IDF/COPYRIGHT.rst",
+      "url": "https://raw.githubusercontent.com/espressif/esp-idf/v4.4.7/docs/en/COPYRIGHT.rst",
+      "sha256": "a1db55f6af33968650e8c53553fc58386bf3d871d740ccfe464c73c60779acc7",
+      "cacheName": "esp-idf-copyright.rst"
+    },
+    {
+      "id": "esp-idf-newlib",
+      "component": "ESP-IDF newlib",
+      "license": "BSD-3-Clause",
+      "kind": "license",
+      "path": "LICENSES/components/ESP-IDF/newlib-COPYING",
+      "url": "https://raw.githubusercontent.com/espressif/esp-idf/v4.4.7/components/newlib/COPYING.NEWLIB",
+      "sha256": "0681089a556e93791da82718d68011ba452de245f7f59c3846936304756ac0c0",
+      "cacheName": "esp-idf-newlib-copying.txt"
+    },
+    {
+      "id": "iana-tzdb",
+      "component": "IANA Time Zone Database",
+      "license": "Public domain",
+      "kind": "license",
+      "path": "LICENSES/components/IANA-tzdb/LICENSE",
+      "url": "https://raw.githubusercontent.com/eggert/tz/2025b/LICENSE",
+      "sha256": "0613408568889f5739e5ae252b722a2659c02002839ad970a63dc5e9174b27cf",
+      "cacheName": "iana-license.txt"
+    }
+  ],
+  "sourceOffers": {
+    "correspondingSourceDocument": "docs/OPEN_SOURCE_LICENSES.md",
+    "sourceSnapshot": "The public source snapshot at the matching release tag",
+    "relinkInstructions": "docs/OPEN_SOURCE_LICENSES.md",
+    "writtenOfferRequired": true
+  },
+  "archiveComponents": {
+    "default": "ESP-IDF bundled SDK",
+    "overrides": {
+      "libFrameworkArduino.a": "Arduino-ESP32",
+      "libAceCommon.a": "AceCommon",
+      "libAceSorting.a": "AceSorting",
+      "libAceTime.a": "AceTime",
+      "libAdafruit NeoPixel.a": "Adafruit NeoPixel",
+      "libM5GFX.a": "M5GFX",
+      "libM5Unified.a": "M5Unified",
+      "libNimBLE-Arduino.a": "NimBLE-Arduino",
+      "libgcc.a": "GCC Toolchain for ESP32 RISC-V",
+      "libstdc++.a": "GCC Toolchain for ESP32 RISC-V"
+    },
+    "archiveLicenses": {
+      "libFrameworkArduino.a": ["lgpl-2.1"],
+      "libAceCommon.a": ["ace-common"],
+      "libAceSorting.a": ["ace-sorting"],
+      "libAceTime.a": ["ace-time"],
+      "libAdafruit NeoPixel.a": ["lgpl-3.0"],
+      "libM5GFX.a": ["m5gfx"],
+      "libM5Unified.a": ["m5unified"],
+      "libNimBLE-Arduino.a": ["nimble-arduino", "tinycrypt-bsd"],
+      "libgcc.a": ["gpl-2.0"],
+      "libstdc++.a": ["gpl-2.0"],
+      "liblibsodium.a": ["libsodium-isc"],
+      "libnewlib.a": ["esp-idf-newlib"],
+      "libfreertos.a": ["mit"],
+      "liblwip.a": ["bsd-3-clause"],
+      "libmbedcrypto.a": ["apache-2.0"],
+      "libmbedtls.a": ["apache-2.0"],
+      "libmbedtls_2.a": ["apache-2.0"],
+      "libmbedx509.a": ["apache-2.0"],
+      "libwpa_supplicant.a": ["bsd-3-clause"],
+      "libprotobuf-c.a": ["bsd-2-clause"],
+      "libexpat.a": ["mit"]
+    }
+  }
+}
