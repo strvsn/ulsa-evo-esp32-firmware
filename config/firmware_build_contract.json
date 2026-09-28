@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "platformio_core": "6.1.18",
+  "last_reviewed_on": "2026-09-15",
+  "next_review_on": "2026-12-15",
+  "required_platformio_lines": [
+    "platform = platformio/espressif32@6.12.0",
+    "https://github.com/m5stack/M5GFX.git#3944fedcaa7999b3c8943dfce972d804cb6dacc5",
+    "https://github.com/m5stack/M5Unified.git#8108bfad04a20ff4e57c0751f62dd6fdf6b137a6",
+    "https://github.com/adafruit/Adafruit_NeoPixel.git#d514fc3beae85dd4c2b19781b93faa47bd6e996f",
+    "https://github.com/bxparks/AceCommon.git#8698645868ac4e6631b8fa3d8308d77377b507bd",
+    "https://github.com/bxparks/AceSorting.git#e58dd60a3f3efb09e877c2c8a144f40627ba3359",
+    "https://github.com/bxparks/AceTime.git#3dc2f58811e153e02bd16161da579dd201746372",
+    "https://github.com/h2zero/NimBLE-Arduino.git#e2b40749ef1e1aae9b1f5b2647d2bbadc5abb44f",
+    "pre:scripts/configure_reproducible_build.py",
+    "[env:m5stamp-c3u]",
+    "[env:m5stamp-c3u-initial]",
+    "[env:m5stamp-c3u-demo]",
+    "extends = env:m5stamp-c3u"
+  ]
+}

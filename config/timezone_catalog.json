@@ -1,0 +1,2402 @@
+{
+  "schemaVersion": 1,
+  "source": "AceTime/zonedbx/kZoneAndLinkRegistry",
+  "aceTimeVersion": "4.1.0",
+  "aceTimeCommit": "3dc2f58811e153e02bd16161da579dd201746372",
+  "tzdbVersion": "2025b",
+  "tzdbYear": 2025,
+  "tzdbRevisionLetter": "b",
+  "startYear": 2000,
+  "untilYear": 2200,
+  "zoneAndLinkCount": 597,
+  "zones": [
+    {
+      "name": "Africa/Abidjan",
+      "zoneId": 3256026531
+    },
+    {
+      "name": "Africa/Accra",
+      "zoneId": 2010493012
+    },
+    {
+      "name": "Africa/Addis_Ababa",
+      "zoneId": 95297125
+    },
+    {
+      "name": "Africa/Algiers",
+      "zoneId": 3645183425
+    },
+    {
+      "name": "Africa/Asmara",
+      "zoneId": 1941076207
+    },
+    {
+      "name": "Africa/Asmera",
+      "zoneId": 1941080563
+    },
+    {
+      "name": "Africa/Bamako",
+      "zoneId": 1958864805
+    },
+    {
+      "name": "Africa/Bangui",
+      "zoneId": 1958907600
+    },
+    {
+      "name": "Africa/Banjul",
+      "zoneId": 1958910870
+    },
+    {
+      "name": "Africa/Bissau",
+      "zoneId": 1968587073
+    },
+    {
+      "name": "Africa/Blantyre",
+      "zoneId": 3767370043
+    },
+    {
+      "name": "Africa/Brazzaville",
+      "zoneId": 969779040
+    },
+    {
+      "name": "Africa/Bujumbura",
+      "zoneId": 86190663
+    },
+    {
+      "name": "Africa/Cairo",
+      "zoneId": 2012799528
+    },
+    {
+      "name": "Africa/Casablanca",
+      "zoneId": 3315538739
+    },
+    {
+      "name": "Africa/Ceuta",
+      "zoneId": 2012956396
+    },
+    {
+      "name": "Africa/Conakry",
+      "zoneId": 2058578737
+    },
+    {
+      "name": "Africa/Dakar",
+      "zoneId": 2013987069
+    },
+    {
+      "name": "Africa/Dar_es_Salaam",
+      "zoneId": 2689353654
+    },
+    {
+      "name": "Africa/Djibouti",
+      "zoneId": 820642260
+    },
+    {
+      "name": "Africa/Douala",
+      "zoneId": 2054026000
+    },
+    {
+      "name": "Africa/El_Aaiun",
+      "zoneId": 2641342744
+    },
+    {
+      "name": "Africa/Freetown",
+      "zoneId": 1747180900
+    },
+    {
+      "name": "Africa/Gaborone",
+      "zoneId": 830212775
+    },
+    {
+      "name": "Africa/Harare",
+      "zoneId": 2193857069
+    },
+    {
+      "name": "Africa/Johannesburg",
+      "zoneId": 3587266464
+    },
+    {
+      "name": "Africa/Juba",
+      "zoneId": 3575331164
+    },
+    {
+      "name": "Africa/Kampala",
+      "zoneId": 3251834417
+    },
+    {
+      "name": "Africa/Khartoum",
+      "zoneId": 4215095813
+    },
+    {
+      "name": "Africa/Kigali",
+      "zoneId": 2320355115
+    },
+    {
+      "name": "Africa/Kinshasa",
+      "zoneId": 1721095948
+    },
+    {
+      "name": "Africa/Lagos",
+      "zoneId": 2023470544
+    },
+    {
+      "name": "Africa/Libreville",
+      "zoneId": 31026660
+    },
+    {
+      "name": "Africa/Lome",
+      "zoneId": 3575396871
+    },
+    {
+      "name": "Africa/Luanda",
+      "zoneId": 2373519823
+    },
+    {
+      "name": "Africa/Lubumbashi",
+      "zoneId": 1876460902
+    },
+    {
+      "name": "Africa/Lusaka",
+      "zoneId": 2374152763
+    },
+    {
+      "name": "Africa/Malabo",
+      "zoneId": 2389317894
+    },
+    {
+      "name": "Africa/Maputo",
+      "zoneId": 2389484016
+    },
+    {
+      "name": "Africa/Maseru",
+      "zoneId": 2389574343
+    },
+    {
+      "name": "Africa/Mbabane",
+      "zoneId": 1564204352
+    },
+    {
+      "name": "Africa/Mogadishu",
+      "zoneId": 1723602331
+    },
+    {
+      "name": "Africa/Monrovia",
+      "zoneId": 216597381
+    },
+    {
+      "name": "Africa/Nairobi",
+      "zoneId": 2826614142
+    },
+    {
+      "name": "Africa/Ndjamena",
+      "zoneId": 2682296472
+    },
+    {
+      "name": "Africa/Niamey",
+      "zoneId": 2437558525
+    },
+    {
+      "name": "Africa/Nouakchott",
+      "zoneId": 1036295610
+    },
+    {
+      "name": "Africa/Ouagadougou",
+      "zoneId": 81207706
+    },
+    {
+      "name": "Africa/Porto-Novo",
+      "zoneId": 1025243485
+    },
+    {
+      "name": "Africa/Sao_Tome",
+      "zoneId": 1639127505
+    },
+    {
+      "name": "Africa/Timbuktu",
+      "zoneId": 2976175471
+    },
+    {
+      "name": "Africa/Tripoli",
+      "zoneId": 2650717501
+    },
+    {
+      "name": "Africa/Tunis",
+      "zoneId": 2033684077
+    },
+    {
+      "name": "Africa/Windhoek",
+      "zoneId": 2023529427
+    },
+    {
+      "name": "America/Adak",
+      "zoneId": 2550024663
+    },
+    {
+      "name": "America/Anchorage",
+      "zoneId": 1517889038
+    },
+    {
+      "name": "America/Anguilla",
+      "zoneId": 2950894387
+    },
+    {
+      "name": "America/Antigua",
+      "zoneId": 3228017455
+    },
+    {
+      "name": "America/Araguaina",
+      "zoneId": 1872378607
+    },
+    {
+      "name": "America/Argentina/Buenos_Aires",
+      "zoneId": 3560655885
+    },
+    {
+      "name": "America/Argentina/Catamarca",
+      "zoneId": 2369820779
+    },
+    {
+      "name": "America/Argentina/ComodRivadavia",
+      "zoneId": 578127991
+    },
+    {
+      "name": "America/Argentina/Cordoba",
+      "zoneId": 3217867528
+    },
+    {
+      "name": "America/Argentina/Jujuy",
+      "zoneId": 1596933829
+    },
+    {
+      "name": "America/Argentina/La_Rioja",
+      "zoneId": 2758508271
+    },
+    {
+      "name": "America/Argentina/Mendoza",
+      "zoneId": 2851548508
+    },
+    {
+      "name": "America/Argentina/Rio_Gallegos",
+      "zoneId": 3316708709
+    },
+    {
+      "name": "America/Argentina/Salta",
+      "zoneId": 1606890499
+    },
+    {
+      "name": "America/Argentina/San_Juan",
+      "zoneId": 1041238461
+    },
+    {
+      "name": "America/Argentina/San_Luis",
+      "zoneId": 1041310604
+    },
+    {
+      "name": "America/Argentina/Tucuman",
+      "zoneId": 3915618795
+    },
+    {
+      "name": "America/Argentina/Ushuaia",
+      "zoneId": 839765470
+    },
+    {
+      "name": "America/Aruba",
+      "zoneId": 2546959953
+    },
+    {
+      "name": "America/Asuncion",
+      "zoneId": 1357674918
+    },
+    {
+      "name": "America/Atikokan",
+      "zoneId": 2176393368
+    },
+    {
+      "name": "America/Atka",
+      "zoneId": 2550042407
+    },
+    {
+      "name": "America/Bahia",
+      "zoneId": 2547521019
+    },
+    {
+      "name": "America/Bahia_Banderas",
+      "zoneId": 351679130
+    },
+    {
+      "name": "America/Barbados",
+      "zoneId": 3418110724
+    },
+    {
+      "name": "America/Belem",
+      "zoneId": 2547669003
+    },
+    {
+      "name": "America/Belize",
+      "zoneId": 2468703361
+    },
+    {
+      "name": "America/Blanc-Sablon",
+      "zoneId": 1848219794
+    },
+    {
+      "name": "America/Boa_Vista",
+      "zoneId": 175865598
+    },
+    {
+      "name": "America/Bogota",
+      "zoneId": 2480389218
+    },
+    {
+      "name": "America/Boise",
+      "zoneId": 2548025560
+    },
+    {
+      "name": "America/Buenos_Aires",
+      "zoneId": 1742182917
+    },
+    {
+      "name": "America/Cambridge_Bay",
+      "zoneId": 3584314111
+    },
+    {
+      "name": "America/Campo_Grande",
+      "zoneId": 4274251686
+    },
+    {
+      "name": "America/Cancun",
+      "zoneId": 2503160254
+    },
+    {
+      "name": "America/Caracas",
+      "zoneId": 1004561652
+    },
+    {
+      "name": "America/Catamarca",
+      "zoneId": 1345775971
+    },
+    {
+      "name": "America/Cayenne",
+      "zoneId": 1013019241
+    },
+    {
+      "name": "America/Cayman",
+      "zoneId": 2503565791
+    },
+    {
+      "name": "America/Chicago",
+      "zoneId": 1267906004
+    },
+    {
+      "name": "America/Chihuahua",
+      "zoneId": 2284312438
+    },
+    {
+      "name": "America/Ciudad_Juarez",
+      "zoneId": 1934097504
+    },
+    {
+      "name": "America/Coral_Harbour",
+      "zoneId": 2882237801
+    },
+    {
+      "name": "America/Cordoba",
+      "zoneId": 1552578048
+    },
+    {
+      "name": "America/Costa_Rica",
+      "zoneId": 1677682366
+    },
+    {
+      "name": "America/Coyhaique",
+      "zoneId": 3425899758
+    },
+    {
+      "name": "America/Creston",
+      "zoneId": 1655112196
+    },
+    {
+      "name": "America/Cuiaba",
+      "zoneId": 2526696171
+    },
+    {
+      "name": "America/Curacao",
+      "zoneId": 1787269508
+    },
+    {
+      "name": "America/Danmarkshavn",
+      "zoneId": 4115976708
+    },
+    {
+      "name": "America/Dawson",
+      "zoneId": 2542636306
+    },
+    {
+      "name": "America/Dawson_Creek",
+      "zoneId": 1827819099
+    },
+    {
+      "name": "America/Denver",
+      "zoneId": 2547059498
+    },
+    {
+      "name": "America/Detroit",
+      "zoneId": 2455567297
+    },
+    {
+      "name": "America/Dominica",
+      "zoneId": 3469429834
+    },
+    {
+      "name": "America/Edmonton",
+      "zoneId": 1824081994
+    },
+    {
+      "name": "America/Eirunepe",
+      "zoneId": 4189230723
+    },
+    {
+      "name": "America/El_Salvador",
+      "zoneId": 1965741650
+    },
+    {
+      "name": "America/Ensenada",
+      "zoneId": 2076791877
+    },
+    {
+      "name": "America/Fort_Nelson",
+      "zoneId": 1061387791
+    },
+    {
+      "name": "America/Fort_Wayne",
+      "zoneId": 2125115172
+    },
+    {
+      "name": "America/Fortaleza",
+      "zoneId": 718280942
+    },
+    {
+      "name": "America/Glace_Bay",
+      "zoneId": 2525100253
+    },
+    {
+      "name": "America/Godthab",
+      "zoneId": 2407447071
+    },
+    {
+      "name": "America/Goose_Bay",
+      "zoneId": 3058258974
+    },
+    {
+      "name": "America/Grand_Turk",
+      "zoneId": 1847681431
+    },
+    {
+      "name": "America/Grenada",
+      "zoneId": 2525816024
+    },
+    {
+      "name": "America/Guadeloupe",
+      "zoneId": 3441396273
+    },
+    {
+      "name": "America/Guatemala",
+      "zoneId": 209869303
+    },
+    {
+      "name": "America/Guayaquil",
+      "zoneId": 400968024
+    },
+    {
+      "name": "America/Guyana",
+      "zoneId": 2683813131
+    },
+    {
+      "name": "America/Halifax",
+      "zoneId": 3160109443
+    },
+    {
+      "name": "America/Havana",
+      "zoneId": 2699122293
+    },
+    {
+      "name": "America/Hermosillo",
+      "zoneId": 106766788
+    },
+    {
+      "name": "America/Indiana/Indianapolis",
+      "zoneId": 681994660
+    },
+    {
+      "name": "America/Indiana/Knox",
+      "zoneId": 1700048329
+    },
+    {
+      "name": "America/Indiana/Marengo",
+      "zoneId": 804187762
+    },
+    {
+      "name": "America/Indiana/Petersburg",
+      "zoneId": 2494331596
+    },
+    {
+      "name": "America/Indiana/Tell_City",
+      "zoneId": 153499154
+    },
+    {
+      "name": "America/Indiana/Vevay",
+      "zoneId": 279748692
+    },
+    {
+      "name": "America/Indiana/Vincennes",
+      "zoneId": 681619986
+    },
+    {
+      "name": "America/Indiana/Winamac",
+      "zoneId": 1142159977
+    },
+    {
+      "name": "America/Indianapolis",
+      "zoneId": 1778424545
+    },
+    {
+      "name": "America/Inuvik",
+      "zoneId": 2753661436
+    },
+    {
+      "name": "America/Iqaluit",
+      "zoneId": 769855679
+    },
+    {
+      "name": "America/Jamaica",
+      "zoneId": 1448979820
+    },
+    {
+      "name": "America/Jujuy",
+      "zoneId": 2557729725
+    },
+    {
+      "name": "America/Juneau",
+      "zoneId": 2800827950
+    },
+    {
+      "name": "America/Kentucky/Louisville",
+      "zoneId": 438370891
+    },
+    {
+      "name": "America/Kentucky/Monticello",
+      "zoneId": 3731997753
+    },
+    {
+      "name": "America/Knox_IN",
+      "zoneId": 3252394524
+    },
+    {
+      "name": "America/Kralendijk",
+      "zoneId": 3888404165
+    },
+    {
+      "name": "America/La_Paz",
+      "zoneId": 2854818397
+    },
+    {
+      "name": "America/Lima",
+      "zoneId": 2550425801
+    },
+    {
+      "name": "America/Los_Angeles",
+      "zoneId": 3086477554
+    },
+    {
+      "name": "America/Louisville",
+      "zoneId": 1036732398
+    },
+    {
+      "name": "America/Lower_Princes",
+      "zoneId": 1793350498
+    },
+    {
+      "name": "America/Maceio",
+      "zoneId": 2894120660
+    },
+    {
+      "name": "America/Managua",
+      "zoneId": 1029600768
+    },
+    {
+      "name": "America/Manaus",
+      "zoneId": 2894512011
+    },
+    {
+      "name": "America/Marigot",
+      "zoneId": 1034631769
+    },
+    {
+      "name": "America/Martinique",
+      "zoneId": 1428063429
+    },
+    {
+      "name": "America/Matamoros",
+      "zoneId": 3709534809
+    },
+    {
+      "name": "America/Mazatlan",
+      "zoneId": 87169182
+    },
+    {
+      "name": "America/Mendoza",
+      "zoneId": 1186259028
+    },
+    {
+      "name": "America/Menominee",
+      "zoneId": 3773416835
+    },
+    {
+      "name": "America/Merida",
+      "zoneId": 2899407576
+    },
+    {
+      "name": "America/Metlakatla",
+      "zoneId": 2229151366
+    },
+    {
+      "name": "America/Mexico_City",
+      "zoneId": 3503898435
+    },
+    {
+      "name": "America/Miquelon",
+      "zoneId": 1499939632
+    },
+    {
+      "name": "America/Moncton",
+      "zoneId": 1577582116
+    },
+    {
+      "name": "America/Monterrey",
+      "zoneId": 647634411
+    },
+    {
+      "name": "America/Montevideo",
+      "zoneId": 4196484992
+    },
+    {
+      "name": "America/Montreal",
+      "zoneId": 540679848
+    },
+    {
+      "name": "America/Montserrat",
+      "zoneId": 429591093
+    },
+    {
+      "name": "America/Nassau",
+      "zoneId": 2933846033
+    },
+    {
+      "name": "America/New_York",
+      "zoneId": 506099284
+    },
+    {
+      "name": "America/Nipigon",
+      "zoneId": 2636811034
+    },
+    {
+      "name": "America/Nome",
+      "zoneId": 2550504213
+    },
+    {
+      "name": "America/Noronha",
+      "zoneId": 2874218235
+    },
+    {
+      "name": "America/North_Dakota/Beulah",
+      "zoneId": 2605888388
+    },
+    {
+      "name": "America/North_Dakota/Center",
+      "zoneId": 2644781076
+    },
+    {
+      "name": "America/North_Dakota/New_Salem",
+      "zoneId": 83465614
+    },
+    {
+      "name": "America/Nuuk",
+      "zoneId": 2550511017
+    },
+    {
+      "name": "America/Ojinaga",
+      "zoneId": 3959285823
+    },
+    {
+      "name": "America/Panama",
+      "zoneId": 3011917908
+    },
+    {
+      "name": "America/Pangnirtung",
+      "zoneId": 765038995
+    },
+    {
+      "name": "America/Paramaribo",
+      "zoneId": 3004818628
+    },
+    {
+      "name": "America/Phoenix",
+      "zoneId": 884322049
+    },
+    {
+      "name": "America/Port-au-Prince",
+      "zoneId": 2387246044
+    },
+    {
+      "name": "America/Port_of_Spain",
+      "zoneId": 3635580249
+    },
+    {
+      "name": "America/Porto_Acre",
+      "zoneId": 3437608788
+    },
+    {
+      "name": "America/Porto_Velho",
+      "zoneId": 1796910199
+    },
+    {
+      "name": "America/Puerto_Rico",
+      "zoneId": 1733478961
+    },
+    {
+      "name": "America/Punta_Arenas",
+      "zoneId": 3267607783
+    },
+    {
+      "name": "America/Rainy_River",
+      "zoneId": 2631240208
+    },
+    {
+      "name": "America/Rankin_Inlet",
+      "zoneId": 3370011012
+    },
+    {
+      "name": "America/Recife",
+      "zoneId": 3094545556
+    },
+    {
+      "name": "America/Regina",
+      "zoneId": 3094689564
+    },
+    {
+      "name": "America/Resolute",
+      "zoneId": 3339269209
+    },
+    {
+      "name": "America/Rio_Branco",
+      "zoneId": 2637506404
+    },
+    {
+      "name": "America/Rosario",
+      "zoneId": 3745810021
+    },
+    {
+      "name": "America/Santa_Isabel",
+      "zoneId": 4246250860
+    },
+    {
+      "name": "America/Santarem",
+      "zoneId": 1946988225
+    },
+    {
+      "name": "America/Santiago",
+      "zoneId": 1947257276
+    },
+    {
+      "name": "America/Santo_Domingo",
+      "zoneId": 1973473655
+    },
+    {
+      "name": "America/Sao_Paulo",
+      "zoneId": 274972617
+    },
+    {
+      "name": "America/Scoresbysund",
+      "zoneId": 306154794
+    },
+    {
+      "name": "America/Shiprock",
+      "zoneId": 2197516361
+    },
+    {
+      "name": "America/Sitka",
+      "zoneId": 2567982306
+    },
+    {
+      "name": "America/St_Barthelemy",
+      "zoneId": 89025145
+    },
+    {
+      "name": "America/St_Johns",
+      "zoneId": 78728814
+    },
+    {
+      "name": "America/St_Kitts",
+      "zoneId": 79712379
+    },
+    {
+      "name": "America/St_Lucia",
+      "zoneId": 81310650
+    },
+    {
+      "name": "America/St_Thomas",
+      "zoneId": 2981353336
+    },
+    {
+      "name": "America/St_Vincent",
+      "zoneId": 2220942627
+    },
+    {
+      "name": "America/Swift_Current",
+      "zoneId": 3740896853
+    },
+    {
+      "name": "America/Tegucigalpa",
+      "zoneId": 3218537804
+    },
+    {
+      "name": "America/Thule",
+      "zoneId": 2569133416
+    },
+    {
+      "name": "America/Thunder_Bay",
+      "zoneId": 4184008475
+    },
+    {
+      "name": "America/Tijuana",
+      "zoneId": 1788993394
+    },
+    {
+      "name": "America/Toronto",
+      "zoneId": 2033091867
+    },
+    {
+      "name": "America/Tortola",
+      "zoneId": 2033272363
+    },
+    {
+      "name": "America/Vancouver",
+      "zoneId": 745499423
+    },
+    {
+      "name": "America/Virgin",
+      "zoneId": 3256367797
+    },
+    {
+      "name": "America/Whitehorse",
+      "zoneId": 1424024552
+    },
+    {
+      "name": "America/Winnipeg",
+      "zoneId": 2357047239
+    },
+    {
+      "name": "America/Yakutat",
+      "zoneId": 3639489001
+    },
+    {
+      "name": "America/Yellowknife",
+      "zoneId": 259442543
+    },
+    {
+      "name": "Antarctica/Casey",
+      "zoneId": 3791791491
+    },
+    {
+      "name": "Antarctica/Davis",
+      "zoneId": 3792980805
+    },
+    {
+      "name": "Antarctica/DumontDUrville",
+      "zoneId": 1513907564
+    },
+    {
+      "name": "Antarctica/Macquarie",
+      "zoneId": 2465494566
+    },
+    {
+      "name": "Antarctica/Mawson",
+      "zoneId": 966580323
+    },
+    {
+      "name": "Antarctica/McMurdo",
+      "zoneId": 1860916613
+    },
+    {
+      "name": "Antarctica/Palmer",
+      "zoneId": 1083584335
+    },
+    {
+      "name": "Antarctica/Rothera",
+      "zoneId": 243716611
+    },
+    {
+      "name": "Antarctica/South_Pole",
+      "zoneId": 3449205392
+    },
+    {
+      "name": "Antarctica/Syowa",
+      "zoneId": 3811624929
+    },
+    {
+      "name": "Antarctica/Troll",
+      "zoneId": 3812558939
+    },
+    {
+      "name": "Antarctica/Vostok",
+      "zoneId": 1335259092
+    },
+    {
+      "name": "Arctic/Longyearbyen",
+      "zoneId": 3527309401
+    },
+    {
+      "name": "Asia/Aden",
+      "zoneId": 531040330
+    },
+    {
+      "name": "Asia/Almaty",
+      "zoneId": 2787066362
+    },
+    {
+      "name": "Asia/Amman",
+      "zoneId": 344793532
+    },
+    {
+      "name": "Asia/Anadyr",
+      "zoneId": 2789010385
+    },
+    {
+      "name": "Asia/Aqtau",
+      "zoneId": 344944910
+    },
+    {
+      "name": "Asia/Aqtobe",
+      "zoneId": 2793262158
+    },
+    {
+      "name": "Asia/Ashgabat",
+      "zoneId": 3129432461
+    },
+    {
+      "name": "Asia/Ashkhabad",
+      "zoneId": 356863753
+    },
+    {
+      "name": "Asia/Atyrau",
+      "zoneId": 2797002856
+    },
+    {
+      "name": "Asia/Baghdad",
+      "zoneId": 2632973293
+    },
+    {
+      "name": "Asia/Bahrain",
+      "zoneId": 2634515591
+    },
+    {
+      "name": "Asia/Baku",
+      "zoneId": 531073205
+    },
+    {
+      "name": "Asia/Bangkok",
+      "zoneId": 2641246895
+    },
+    {
+      "name": "Asia/Barnaul",
+      "zoneId": 2646231447
+    },
+    {
+      "name": "Asia/Beirut",
+      "zoneId": 2817775101
+    },
+    {
+      "name": "Asia/Bishkek",
+      "zoneId": 2960295251
+    },
+    {
+      "name": "Asia/Brunei",
+      "zoneId": 2833618423
+    },
+    {
+      "name": "Asia/Calcutta",
+      "zoneId": 847922371
+    },
+    {
+      "name": "Asia/Chita",
+      "zoneId": 346981947
+    },
+    {
+      "name": "Asia/Choibalsan",
+      "zoneId": 2458559654
+    },
+    {
+      "name": "Asia/Chongqing",
+      "zoneId": 4181195664
+    },
+    {
+      "name": "Asia/Chungking",
+      "zoneId": 3339853264
+    },
+    {
+      "name": "Asia/Colombo",
+      "zoneId": 183560477
+    },
+    {
+      "name": "Asia/Dacca",
+      "zoneId": 347909214
+    },
+    {
+      "name": "Asia/Damascus",
+      "zoneId": 553365603
+    },
+    {
+      "name": "Asia/Dhaka",
+      "zoneId": 348158859
+    },
+    {
+      "name": "Asia/Dili",
+      "zoneId": 531153812
+    },
+    {
+      "name": "Asia/Dubai",
+      "zoneId": 348626807
+    },
+    {
+      "name": "Asia/Dushanbe",
+      "zoneId": 855399484
+    },
+    {
+      "name": "Asia/Famagusta",
+      "zoneId": 681267083
+    },
+    {
+      "name": "Asia/Gaza",
+      "zoneId": 531253365
+    },
+    {
+      "name": "Asia/Harbin",
+      "zoneId": 3048149382
+    },
+    {
+      "name": "Asia/Hebron",
+      "zoneId": 3052335696
+    },
+    {
+      "name": "Asia/Ho_Chi_Minh",
+      "zoneId": 552784167
+    },
+    {
+      "name": "Asia/Hong_Kong",
+      "zoneId": 1467951276
+    },
+    {
+      "name": "Asia/Hovd",
+      "zoneId": 531304419
+    },
+    {
+      "name": "Asia/Irkutsk",
+      "zoneId": 3753845055
+    },
+    {
+      "name": "Asia/Istanbul",
+      "zoneId": 942569620
+    },
+    {
+      "name": "Asia/Jakarta",
+      "zoneId": 84323152
+    },
+    {
+      "name": "Asia/Jayapura",
+      "zoneId": 3330489391
+    },
+    {
+      "name": "Asia/Jerusalem",
+      "zoneId": 1542246970
+    },
+    {
+      "name": "Asia/Kabul",
+      "zoneId": 356210177
+    },
+    {
+      "name": "Asia/Kamchatka",
+      "zoneId": 1941633495
+    },
+    {
+      "name": "Asia/Karachi",
+      "zoneId": 1384075845
+    },
+    {
+      "name": "Asia/Kashgar",
+      "zoneId": 1385517459
+    },
+    {
+      "name": "Asia/Kathmandu",
+      "zoneId": 2593574511
+    },
+    {
+      "name": "Asia/Katmandu",
+      "zoneId": 2817266375
+    },
+    {
+      "name": "Asia/Khandyga",
+      "zoneId": 2525340889
+    },
+    {
+      "name": "Asia/Kolkata",
+      "zoneId": 1925213401
+    },
+    {
+      "name": "Asia/Krasnoyarsk",
+      "zoneId": 3493293162
+    },
+    {
+      "name": "Asia/Kuala_Lumpur",
+      "zoneId": 21455812
+    },
+    {
+      "name": "Asia/Kuching",
+      "zoneId": 2149253179
+    },
+    {
+      "name": "Asia/Kuwait",
+      "zoneId": 3189452583
+    },
+    {
+      "name": "Asia/Macao",
+      "zoneId": 358582451
+    },
+    {
+      "name": "Asia/Macau",
+      "zoneId": 358582457
+    },
+    {
+      "name": "Asia/Magadan",
+      "zoneId": 3953967515
+    },
+    {
+      "name": "Asia/Makassar",
+      "zoneId": 1789009029
+    },
+    {
+      "name": "Asia/Manila",
+      "zoneId": 3243690308
+    },
+    {
+      "name": "Asia/Muscat",
+      "zoneId": 3267581535
+    },
+    {
+      "name": "Asia/Nicosia",
+      "zoneId": 1259327352
+    },
+    {
+      "name": "Asia/Novokuznetsk",
+      "zoneId": 1764118419
+    },
+    {
+      "name": "Asia/Novosibirsk",
+      "zoneId": 2728670667
+    },
+    {
+      "name": "Asia/Omsk",
+      "zoneId": 531553708
+    },
+    {
+      "name": "Asia/Oral",
+      "zoneId": 531558560
+    },
+    {
+      "name": "Asia/Phnom_Penh",
+      "zoneId": 3257177182
+    },
+    {
+      "name": "Asia/Pontianak",
+      "zoneId": 443990103
+    },
+    {
+      "name": "Asia/Pyongyang",
+      "zoneId": 2481790094
+    },
+    {
+      "name": "Asia/Qatar",
+      "zoneId": 363344651
+    },
+    {
+      "name": "Asia/Qostanay",
+      "zoneId": 1699734818
+    },
+    {
+      "name": "Asia/Qyzylorda",
+      "zoneId": 1898458753
+    },
+    {
+      "name": "Asia/Rangoon",
+      "zoneId": 1829902278
+    },
+    {
+      "name": "Asia/Riyadh",
+      "zoneId": 3449240979
+    },
+    {
+      "name": "Asia/Saigon",
+      "zoneId": 3478320915
+    },
+    {
+      "name": "Asia/Sakhalin",
+      "zoneId": 4104243645
+    },
+    {
+      "name": "Asia/Samarkand",
+      "zoneId": 330191108
+    },
+    {
+      "name": "Asia/Seoul",
+      "zoneId": 365855450
+    },
+    {
+      "name": "Asia/Shanghai",
+      "zoneId": 4170557429
+    },
+    {
+      "name": "Asia/Singapore",
+      "zoneId": 3481633274
+    },
+    {
+      "name": "Asia/Srednekolymsk",
+      "zoneId": 3213767549
+    },
+    {
+      "name": "Asia/Taipei",
+      "zoneId": 3517465774
+    },
+    {
+      "name": "Asia/Tashkent",
+      "zoneId": 4086448724
+    },
+    {
+      "name": "Asia/Tbilisi",
+      "zoneId": 151249986
+    },
+    {
+      "name": "Asia/Tehran",
+      "zoneId": 3522175572
+    },
+    {
+      "name": "Asia/Tel_Aviv",
+      "zoneId": 376273964
+    },
+    {
+      "name": "Asia/Thimbu",
+      "zoneId": 3525763867
+    },
+    {
+      "name": "Asia/Thimphu",
+      "zoneId": 386105553
+    },
+    {
+      "name": "Asia/Tokyo",
+      "zoneId": 367396520
+    },
+    {
+      "name": "Asia/Tomsk",
+      "zoneId": 367398496
+    },
+    {
+      "name": "Asia/Ujung_Pandang",
+      "zoneId": 1560288947
+    },
+    {
+      "name": "Asia/Ulaanbaatar",
+      "zoneId": 821087310
+    },
+    {
+      "name": "Asia/Ulan_Bator",
+      "zoneId": 961393881
+    },
+    {
+      "name": "Asia/Urumqi",
+      "zoneId": 3577190197
+    },
+    {
+      "name": "Asia/Ust-Nera",
+      "zoneId": 1199962401
+    },
+    {
+      "name": "Asia/Vientiane",
+      "zoneId": 2312539509
+    },
+    {
+      "name": "Asia/Vladivostok",
+      "zoneId": 702428328
+    },
+    {
+      "name": "Asia/Yakutsk",
+      "zoneId": 2277194398
+    },
+    {
+      "name": "Asia/Yangon",
+      "zoneId": 3713312958
+    },
+    {
+      "name": "Asia/Yekaterinburg",
+      "zoneId": 4216605806
+    },
+    {
+      "name": "Asia/Yerevan",
+      "zoneId": 2441464012
+    },
+    {
+      "name": "Atlantic/Azores",
+      "zoneId": 4181645592
+    },
+    {
+      "name": "Atlantic/Bermuda",
+      "zoneId": 1028370884
+    },
+    {
+      "name": "Atlantic/Canary",
+      "zoneId": 4230214338
+    },
+    {
+      "name": "Atlantic/Cape_Verde",
+      "zoneId": 1549670258
+    },
+    {
+      "name": "Atlantic/Faeroe",
+      "zoneId": 52348182
+    },
+    {
+      "name": "Atlantic/Faroe",
+      "zoneId": 3775965553
+    },
+    {
+      "name": "Atlantic/Jan_Mayen",
+      "zoneId": 1517630902
+    },
+    {
+      "name": "Atlantic/Madeira",
+      "zoneId": 2176172087
+    },
+    {
+      "name": "Atlantic/Reykjavik",
+      "zoneId": 472600436
+    },
+    {
+      "name": "Atlantic/South_Georgia",
+      "zoneId": 855716212
+    },
+    {
+      "name": "Atlantic/St_Helena",
+      "zoneId": 1159710199
+    },
+    {
+      "name": "Atlantic/Stanley",
+      "zoneId": 2075386308
+    },
+    {
+      "name": "Australia/ACT",
+      "zoneId": 2325155506
+    },
+    {
+      "name": "Australia/Adelaide",
+      "zoneId": 606660771
+    },
+    {
+      "name": "Australia/Brisbane",
+      "zoneId": 1340983744
+    },
+    {
+      "name": "Australia/Broken_Hill",
+      "zoneId": 2960043427
+    },
+    {
+      "name": "Australia/Canberra",
+      "zoneId": 705277528
+    },
+    {
+      "name": "Australia/Currie",
+      "zoneId": 663448100
+    },
+    {
+      "name": "Australia/Darwin",
+      "zoneId": 678870527
+    },
+    {
+      "name": "Australia/Eucla",
+      "zoneId": 2365169220
+    },
+    {
+      "name": "Australia/Hobart",
+      "zoneId": 851416346
+    },
+    {
+      "name": "Australia/LHI",
+      "zoneId": 2325167639
+    },
+    {
+      "name": "Australia/Lindeman",
+      "zoneId": 3763349986
+    },
+    {
+      "name": "Australia/Lord_Howe",
+      "zoneId": 2806560381
+    },
+    {
+      "name": "Australia/Melbourne",
+      "zoneId": 266688931
+    },
+    {
+      "name": "Australia/NSW",
+      "zoneId": 2325170194
+    },
+    {
+      "name": "Australia/North",
+      "zoneId": 2375643493
+    },
+    {
+      "name": "Australia/Perth",
+      "zoneId": 2377655965
+    },
+    {
+      "name": "Australia/Queensland",
+      "zoneId": 3542543626
+    },
+    {
+      "name": "Australia/South",
+      "zoneId": 2381576365
+    },
+    {
+      "name": "Australia/Sydney",
+      "zoneId": 1293850486
+    },
+    {
+      "name": "Australia/Tasmania",
+      "zoneId": 3872876104
+    },
+    {
+      "name": "Australia/Victoria",
+      "zoneId": 39900635
+    },
+    {
+      "name": "Australia/West",
+      "zoneId": 3716516445
+    },
+    {
+      "name": "Australia/Yancowinna",
+      "zoneId": 2428158257
+    },
+    {
+      "name": "Brazil/Acre",
+      "zoneId": 1720930195
+    },
+    {
+      "name": "Brazil/DeNoronha",
+      "zoneId": 2605495446
+    },
+    {
+      "name": "Brazil/East",
+      "zoneId": 1721071813
+    },
+    {
+      "name": "Brazil/West",
+      "zoneId": 1721723035
+    },
+    {
+      "name": "CET",
+      "zoneId": 193452321
+    },
+    {
+      "name": "CST6CDT",
+      "zoneId": 4041768192
+    },
+    {
+      "name": "Canada/Atlantic",
+      "zoneId": 1399525788
+    },
+    {
+      "name": "Canada/Central",
+      "zoneId": 1650921717
+    },
+    {
+      "name": "Canada/Eastern",
+      "zoneId": 4083232094
+    },
+    {
+      "name": "Canada/Mountain",
+      "zoneId": 4220158487
+    },
+    {
+      "name": "Canada/Newfoundland",
+      "zoneId": 3013011857
+    },
+    {
+      "name": "Canada/Pacific",
+      "zoneId": 1090141307
+    },
+    {
+      "name": "Canada/Saskatchewan",
+      "zoneId": 1999707977
+    },
+    {
+      "name": "Canada/Yukon",
+      "zoneId": 2027763138
+    },
+    {
+      "name": "Chile/Continental",
+      "zoneId": 2116803352
+    },
+    {
+      "name": "Chile/EasterIsland",
+      "zoneId": 2962762488
+    },
+    {
+      "name": "Cuba",
+      "zoneId": 2089012128
+    },
+    {
+      "name": "EET",
+      "zoneId": 193454499
+    },
+    {
+      "name": "EST",
+      "zoneId": 193454961
+    },
+    {
+      "name": "EST5EDT",
+      "zoneId": 2329703075
+    },
+    {
+      "name": "Egypt",
+      "zoneId": 219817870
+    },
+    {
+      "name": "Eire",
+      "zoneId": 2089071466
+    },
+    {
+      "name": "Etc/GMT",
+      "zoneId": 3638746712
+    },
+    {
+      "name": "Etc/GMT+0",
+      "zoneId": 2635323923
+    },
+    {
+      "name": "Etc/GMT+1",
+      "zoneId": 2635323924
+    },
+    {
+      "name": "Etc/GMT+10",
+      "zoneId": 1066343620
+    },
+    {
+      "name": "Etc/GMT+11",
+      "zoneId": 1066343621
+    },
+    {
+      "name": "Etc/GMT+12",
+      "zoneId": 1066343622
+    },
+    {
+      "name": "Etc/GMT+2",
+      "zoneId": 2635323925
+    },
+    {
+      "name": "Etc/GMT+3",
+      "zoneId": 2635323926
+    },
+    {
+      "name": "Etc/GMT+4",
+      "zoneId": 2635323927
+    },
+    {
+      "name": "Etc/GMT+5",
+      "zoneId": 2635323928
+    },
+    {
+      "name": "Etc/GMT+6",
+      "zoneId": 2635323929
+    },
+    {
+      "name": "Etc/GMT+7",
+      "zoneId": 2635323930
+    },
+    {
+      "name": "Etc/GMT+8",
+      "zoneId": 2635323931
+    },
+    {
+      "name": "Etc/GMT+9",
+      "zoneId": 2635323932
+    },
+    {
+      "name": "Etc/GMT-0",
+      "zoneId": 2635323989
+    },
+    {
+      "name": "Etc/GMT-1",
+      "zoneId": 2635323990
+    },
+    {
+      "name": "Etc/GMT-10",
+      "zoneId": 1066345798
+    },
+    {
+      "name": "Etc/GMT-11",
+      "zoneId": 1066345799
+    },
+    {
+      "name": "Etc/GMT-12",
+      "zoneId": 1066345800
+    },
+    {
+      "name": "Etc/GMT-13",
+      "zoneId": 1066345801
+    },
+    {
+      "name": "Etc/GMT-14",
+      "zoneId": 1066345802
+    },
+    {
+      "name": "Etc/GMT-2",
+      "zoneId": 2635323991
+    },
+    {
+      "name": "Etc/GMT-3",
+      "zoneId": 2635323992
+    },
+    {
+      "name": "Etc/GMT-4",
+      "zoneId": 2635323993
+    },
+    {
+      "name": "Etc/GMT-5",
+      "zoneId": 2635323994
+    },
+    {
+      "name": "Etc/GMT-6",
+      "zoneId": 2635323995
+    },
+    {
+      "name": "Etc/GMT-7",
+      "zoneId": 2635323996
+    },
+    {
+      "name": "Etc/GMT-8",
+      "zoneId": 2635323997
+    },
+    {
+      "name": "Etc/GMT-9",
+      "zoneId": 2635323998
+    },
+    {
+      "name": "Etc/GMT0",
+      "zoneId": 4114524552
+    },
+    {
+      "name": "Etc/Greenwich",
+      "zoneId": 651864460
+    },
+    {
+      "name": "Etc/UCT",
+      "zoneId": 3638761628
+    },
+    {
+      "name": "Etc/UTC",
+      "zoneId": 3638762172
+    },
+    {
+      "name": "Etc/Universal",
+      "zoneId": 797751721
+    },
+    {
+      "name": "Etc/Zulu",
+      "zoneId": 4115251776
+    },
+    {
+      "name": "Europe/Amsterdam",
+      "zoneId": 278107586
+    },
+    {
+      "name": "Europe/Andorra",
+      "zoneId": 2549511755
+    },
+    {
+      "name": "Europe/Astrakhan",
+      "zoneId": 3793901281
+    },
+    {
+      "name": "Europe/Athens",
+      "zoneId": 1125710375
+    },
+    {
+      "name": "Europe/Belfast",
+      "zoneId": 3497906661
+    },
+    {
+      "name": "Europe/Belgrade",
+      "zoneId": 3763546938
+    },
+    {
+      "name": "Europe/Berlin",
+      "zoneId": 1147423776
+    },
+    {
+      "name": "Europe/Bratislava",
+      "zoneId": 3662232557
+    },
+    {
+      "name": "Europe/Brussels",
+      "zoneId": 3739251511
+    },
+    {
+      "name": "Europe/Bucharest",
+      "zoneId": 4214529733
+    },
+    {
+      "name": "Europe/Budapest",
+      "zoneId": 2631932284
+    },
+    {
+      "name": "Europe/Busingen",
+      "zoneId": 3228380383
+    },
+    {
+      "name": "Europe/Chisinau",
+      "zoneId": 2908269080
+    },
+    {
+      "name": "Europe/Copenhagen",
+      "zoneId": 3773640892
+    },
+    {
+      "name": "Europe/Dublin",
+      "zoneId": 1244094306
+    },
+    {
+      "name": "Europe/Gibraltar",
+      "zoneId": 4175635964
+    },
+    {
+      "name": "Europe/Guernsey",
+      "zoneId": 1035021334
+    },
+    {
+      "name": "Europe/Helsinki",
+      "zoneId": 1790089051
+    },
+    {
+      "name": "Europe/Isle_of_Man",
+      "zoneId": 3942139264
+    },
+    {
+      "name": "Europe/Istanbul",
+      "zoneId": 2651444966
+    },
+    {
+      "name": "Europe/Jersey",
+      "zoneId": 1460514422
+    },
+    {
+      "name": "Europe/Kaliningrad",
+      "zoneId": 3543871272
+    },
+    {
+      "name": "Europe/Kiev",
+      "zoneId": 2730598067
+    },
+    {
+      "name": "Europe/Kirov",
+      "zoneId": 4210404335
+    },
+    {
+      "name": "Europe/Kyiv",
+      "zoneId": 2730615623
+    },
+    {
+      "name": "Europe/Lisbon",
+      "zoneId": 1543546635
+    },
+    {
+      "name": "Europe/Ljubljana",
+      "zoneId": 3180907959
+    },
+    {
+      "name": "Europe/London",
+      "zoneId": 1550484654
+    },
+    {
+      "name": "Europe/Luxembourg",
+      "zoneId": 529254094
+    },
+    {
+      "name": "Europe/Madrid",
+      "zoneId": 1572672821
+    },
+    {
+      "name": "Europe/Malta",
+      "zoneId": 4212482291
+    },
+    {
+      "name": "Europe/Mariehamn",
+      "zoneId": 212493462
+    },
+    {
+      "name": "Europe/Minsk",
+      "zoneId": 4212771942
+    },
+    {
+      "name": "Europe/Monaco",
+      "zoneId": 1589616385
+    },
+    {
+      "name": "Europe/Moscow",
+      "zoneId": 1589798652
+    },
+    {
+      "name": "Europe/Nicosia",
+      "zoneId": 1961864074
+    },
+    {
+      "name": "Europe/Oslo",
+      "zoneId": 2730752929
+    },
+    {
+      "name": "Europe/Paris",
+      "zoneId": 4216046243
+    },
+    {
+      "name": "Europe/Podgorica",
+      "zoneId": 471484828
+    },
+    {
+      "name": "Europe/Prague",
+      "zoneId": 1710120264
+    },
+    {
+      "name": "Europe/Riga",
+      "zoneId": 2730849671
+    },
+    {
+      "name": "Europe/Rome",
+      "zoneId": 2730856407
+    },
+    {
+      "name": "Europe/Samara",
+      "zoneId": 1807790393
+    },
+    {
+      "name": "Europe/San_Marino",
+      "zoneId": 3472323147
+    },
+    {
+      "name": "Europe/Sarajevo",
+      "zoneId": 1784114239
+    },
+    {
+      "name": "Europe/Saratov",
+      "zoneId": 3828440484
+    },
+    {
+      "name": "Europe/Simferopol",
+      "zoneId": 3667834660
+    },
+    {
+      "name": "Europe/Skopje",
+      "zoneId": 1819737552
+    },
+    {
+      "name": "Europe/Sofia",
+      "zoneId": 4220094038
+    },
+    {
+      "name": "Europe/Stockholm",
+      "zoneId": 1542912952
+    },
+    {
+      "name": "Europe/Tallinn",
+      "zoneId": 818208918
+    },
+    {
+      "name": "Europe/Tirane",
+      "zoneId": 1856592711
+    },
+    {
+      "name": "Europe/Tiraspol",
+      "zoneId": 3195028594
+    },
+    {
+      "name": "Europe/Ulyanovsk",
+      "zoneId": 3761734608
+    },
+    {
+      "name": "Europe/Uzhgorod",
+      "zoneId": 2959537622
+    },
+    {
+      "name": "Europe/Vaduz",
+      "zoneId": 4223146926
+    },
+    {
+      "name": "Europe/Vatican",
+      "zoneId": 3410517450
+    },
+    {
+      "name": "Europe/Vienna",
+      "zoneId": 1934410469
+    },
+    {
+      "name": "Europe/Vilnius",
+      "zoneId": 3714300110
+    },
+    {
+      "name": "Europe/Volgograd",
+      "zoneId": 1053881225
+    },
+    {
+      "name": "Europe/Warsaw",
+      "zoneId": 1964530713
+    },
+    {
+      "name": "Europe/Zagreb",
+      "zoneId": 2081540607
+    },
+    {
+      "name": "Europe/Zaporozhye",
+      "zoneId": 3938023039
+    },
+    {
+      "name": "Europe/Zurich",
+      "zoneId": 2105644473
+    },
+    {
+      "name": "GB",
+      "zoneId": 5862318
+    },
+    {
+      "name": "GB-Eire",
+      "zoneId": 4201702144
+    },
+    {
+      "name": "GMT",
+      "zoneId": 193456941
+    },
+    {
+      "name": "GMT+0",
+      "zoneId": 221212712
+    },
+    {
+      "name": "GMT-0",
+      "zoneId": 221212778
+    },
+    {
+      "name": "GMT0",
+      "zoneId": 2089111805
+    },
+    {
+      "name": "Greenwich",
+      "zoneId": 3360506401
+    },
+    {
+      "name": "HST",
+      "zoneId": 193458228
+    },
+    {
+      "name": "Hongkong",
+      "zoneId": 1456694624
+    },
+    {
+      "name": "Iceland",
+      "zoneId": 3848943029
+    },
+    {
+      "name": "Indian/Antananarivo",
+      "zoneId": 2663338633
+    },
+    {
+      "name": "Indian/Chagos",
+      "zoneId": 1164934204
+    },
+    {
+      "name": "Indian/Christmas",
+      "zoneId": 1757546453
+    },
+    {
+      "name": "Indian/Cocos",
+      "zoneId": 35555038
+    },
+    {
+      "name": "Indian/Comoro",
+      "zoneId": 1173675702
+    },
+    {
+      "name": "Indian/Kerguelen",
+      "zoneId": 1129427849
+    },
+    {
+      "name": "Indian/Mahe",
+      "zoneId": 1172776418
+    },
+    {
+      "name": "Indian/Maldives",
+      "zoneId": 2557044764
+    },
+    {
+      "name": "Indian/Mauritius",
+      "zoneId": 2064236586
+    },
+    {
+      "name": "Indian/Mayotte",
+      "zoneId": 3867675594
+    },
+    {
+      "name": "Indian/Reunion",
+      "zoneId": 1886830663
+    },
+    {
+      "name": "Iran",
+      "zoneId": 2089224463
+    },
+    {
+      "name": "Israel",
+      "zoneId": 3129526757
+    },
+    {
+      "name": "Jamaica",
+      "zoneId": 776273323
+    },
+    {
+      "name": "Japan",
+      "zoneId": 225521551
+    },
+    {
+      "name": "Kwajalein",
+      "zoneId": 240627643
+    },
+    {
+      "name": "Libya",
+      "zoneId": 228166422
+    },
+    {
+      "name": "MET",
+      "zoneId": 193463211
+    },
+    {
+      "name": "MST",
+      "zoneId": 193463673
+    },
+    {
+      "name": "MST7MDT",
+      "zoneId": 4071592821
+    },
+    {
+      "name": "Mexico/BajaNorte",
+      "zoneId": 4244051215
+    },
+    {
+      "name": "Mexico/BajaSur",
+      "zoneId": 149829185
+    },
+    {
+      "name": "Mexico/General",
+      "zoneId": 2473663831
+    },
+    {
+      "name": "NZ",
+      "zoneId": 5862573
+    },
+    {
+      "name": "NZ-CHAT",
+      "zoneId": 1296216026
+    },
+    {
+      "name": "Navajo",
+      "zoneId": 3304001060
+    },
+    {
+      "name": "PRC",
+      "zoneId": 193466890
+    },
+    {
+      "name": "PST8PDT",
+      "zoneId": 3651068636
+    },
+    {
+      "name": "Pacific/Apia",
+      "zoneId": 590715742
+    },
+    {
+      "name": "Pacific/Auckland",
+      "zoneId": 621162374
+    },
+    {
+      "name": "Pacific/Bougainville",
+      "zoneId": 1578170276
+    },
+    {
+      "name": "Pacific/Chatham",
+      "zoneId": 789440921
+    },
+    {
+      "name": "Pacific/Chuuk",
+      "zoneId": 2315848483
+    },
+    {
+      "name": "Pacific/Easter",
+      "zoneId": 3478452199
+    },
+    {
+      "name": "Pacific/Efate",
+      "zoneId": 2318126632
+    },
+    {
+      "name": "Pacific/Enderbury",
+      "zoneId": 1633262227
+    },
+    {
+      "name": "Pacific/Fakaofo",
+      "zoneId": 106113978
+    },
+    {
+      "name": "Pacific/Fiji",
+      "zoneId": 590887845
+    },
+    {
+      "name": "Pacific/Funafuti",
+      "zoneId": 3678416229
+    },
+    {
+      "name": "Pacific/Galapagos",
+      "zoneId": 2840786770
+    },
+    {
+      "name": "Pacific/Gambier",
+      "zoneId": 1399983162
+    },
+    {
+      "name": "Pacific/Guadalcanal",
+      "zoneId": 4108133872
+    },
+    {
+      "name": "Pacific/Guam",
+      "zoneId": 590936557
+    },
+    {
+      "name": "Pacific/Honolulu",
+      "zoneId": 3873901305
+    },
+    {
+      "name": "Pacific/Johnston",
+      "zoneId": 2975693622
+    },
+    {
+      "name": "Pacific/Kanton",
+      "zoneId": 3713085198
+    },
+    {
+      "name": "Pacific/Kiritimati",
+      "zoneId": 2198144826
+    },
+    {
+      "name": "Pacific/Kosrae",
+      "zoneId": 3729865128
+    },
+    {
+      "name": "Pacific/Kwajalein",
+      "zoneId": 2384553817
+    },
+    {
+      "name": "Pacific/Majuro",
+      "zoneId": 3791213425
+    },
+    {
+      "name": "Pacific/Marquesas",
+      "zoneId": 1472885045
+    },
+    {
+      "name": "Pacific/Midway",
+      "zoneId": 3800486798
+    },
+    {
+      "name": "Pacific/Nauru",
+      "zoneId": 2328641966
+    },
+    {
+      "name": "Pacific/Niue",
+      "zoneId": 591175700
+    },
+    {
+      "name": "Pacific/Norfolk",
+      "zoneId": 2404299966
+    },
+    {
+      "name": "Pacific/Noumea",
+      "zoneId": 3847337864
+    },
+    {
+      "name": "Pacific/Pago_Pago",
+      "zoneId": 1614474192
+    },
+    {
+      "name": "Pacific/Palau",
+      "zoneId": 2331003446
+    },
+    {
+      "name": "Pacific/Pitcairn",
+      "zoneId": 2285361341
+    },
+    {
+      "name": "Pacific/Pohnpei",
+      "zoneId": 680697750
+    },
+    {
+      "name": "Pacific/Ponape",
+      "zoneId": 3925344390
+    },
+    {
+      "name": "Pacific/Port_Moresby",
+      "zoneId": 2814017384
+    },
+    {
+      "name": "Pacific/Rarotonga",
+      "zoneId": 2575410096
+    },
+    {
+      "name": "Pacific/Saipan",
+      "zoneId": 4025983839
+    },
+    {
+      "name": "Pacific/Samoa",
+      "zoneId": 2334562740
+    },
+    {
+      "name": "Pacific/Tahiti",
+      "zoneId": 4065076294
+    },
+    {
+      "name": "Pacific/Tarawa",
+      "zoneId": 4065427043
+    },
+    {
+      "name": "Pacific/Tongatapu",
+      "zoneId": 640460854
+    },
+    {
+      "name": "Pacific/Truk",
+      "zoneId": 591401129
+    },
+    {
+      "name": "Pacific/Wake",
+      "zoneId": 591490091
+    },
+    {
+      "name": "Pacific/Wallis",
+      "zoneId": 4182629135
+    },
+    {
+      "name": "Pacific/Yap",
+      "zoneId": 3141538701
+    },
+    {
+      "name": "Poland",
+      "zoneId": 3398515491
+    },
+    {
+      "name": "Portugal",
+      "zoneId": 3274130835
+    },
+    {
+      "name": "ROC",
+      "zoneId": 193468969
+    },
+    {
+      "name": "ROK",
+      "zoneId": 193468977
+    },
+    {
+      "name": "Singapore",
+      "zoneId": 2824440973
+    },
+    {
+      "name": "Turkey",
+      "zoneId": 3562398825
+    },
+    {
+      "name": "UCT",
+      "zoneId": 193471857
+    },
+    {
+      "name": "US/Alaska",
+      "zoneId": 4197452745
+    },
+    {
+      "name": "US/Aleutian",
+      "zoneId": 1340085231
+    },
+    {
+      "name": "US/Arizona",
+      "zoneId": 1321543280
+    },
+    {
+      "name": "US/Central",
+      "zoneId": 3401435941
+    },
+    {
+      "name": "US/East-Indiana",
+      "zoneId": 1842304394
+    },
+    {
+      "name": "US/Eastern",
+      "zoneId": 1538779022
+    },
+    {
+      "name": "US/Hawaii",
+      "zoneId": 164159023
+    },
+    {
+      "name": "US/Indiana-Starke",
+      "zoneId": 1737980903
+    },
+    {
+      "name": "US/Michigan",
+      "zoneId": 1986770876
+    },
+    {
+      "name": "US/Mountain",
+      "zoneId": 1857585735
+    },
+    {
+      "name": "US/Pacific",
+      "zoneId": 2840655531
+    },
+    {
+      "name": "US/Samoa",
+      "zoneId": 1449664973
+    },
+    {
+      "name": "UTC",
+      "zoneId": 193472401
+    },
+    {
+      "name": "Universal",
+      "zoneId": 3506393662
+    },
+    {
+      "name": "W-SU",
+      "zoneId": 2089651953
+    },
+    {
+      "name": "WET",
+      "zoneId": 193474101
+    },
+    {
+      "name": "Zulu",
+      "zoneId": 2089839029
+    }
+  ]
+}

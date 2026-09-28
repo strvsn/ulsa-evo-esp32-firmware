@@ -1,0 +1,145 @@
+{
+  "schemaVersion": 1,
+  "components": [
+    {
+      "name": "PlatformIO Core",
+      "version": "6.1.18",
+      "packageVersion": "6.1.18",
+      "license": "Apache-2.0",
+      "source": "https://github.com/platformio/platformio-core",
+      "purl": "pkg:pypi/platformio@6.1.18",
+      "scope": "build",
+      "profiles": ["demo", "initial"]
+    },
+    {
+      "name": "PlatformIO Espressif 32",
+      "version": "6.12.0",
+      "packageVersion": "6.12.0",
+      "license": "Apache-2.0",
+      "source": "https://github.com/platformio/platform-espressif32",
+      "purl": "pkg:github/platformio/platform-espressif32@6.12.0",
+      "scope": "build",
+      "profiles": ["demo", "initial"]
+    },
+    {
+      "name": "Arduino-ESP32",
+      "version": "2.0.17",
+      "packageVersion": "3.20017.241212+sha.dcc1105b",
+      "license": "LGPL-2.1-or-later",
+      "source": "https://github.com/espressif/arduino-esp32",
+      "purl": "pkg:github/espressif/arduino-esp32@2.0.17",
+      "scope": "runtime",
+      "profiles": ["demo", "initial"]
+    },
+    {
+      "name": "GCC Toolchain for ESP32 RISC-V",
+      "version": "8.4.0+2021r2-patch5",
+      "packageVersion": "8.4.0+2021r2-patch5",
+      "license": "GPL-2.0-or-later",
+      "source": "https://github.com/espressif/crosstool-NG",
+      "purl": "pkg:generic/toolchain-riscv32-esp@8.4.0%2B2021r2-patch5",
+      "scope": "build",
+      "profiles": ["demo", "initial"]
+    },
+    {
+      "name": "esptool",
+      "version": "4.9.0",
+      "packageVersion": "2.40900.250804",
+      "license": "GPL-2.0-or-later",
+      "source": "https://github.com/espressif/esptool",
+      "purl": "pkg:pypi/esptool@4.9.0",
+      "scope": "build",
+      "profiles": ["demo", "initial"]
+    },
+    {
+      "name": "M5GFX",
+      "version": "0.2.22",
+      "packageVersion": "0.2.22",
+      "license": "MIT",
+      "source": "https://github.com/m5stack/M5GFX/tree/3944fedcaa7999b3c8943dfce972d804cb6dacc5",
+      "purl": "pkg:github/m5stack/M5GFX@0.2.22",
+      "scope": "runtime",
+      "profiles": ["demo", "initial"]
+    },
+    {
+      "name": "M5Unified",
+      "version": "0.2.17",
+      "packageVersion": "0.2.17",
+      "license": "MIT",
+      "source": "https://github.com/m5stack/M5Unified/tree/8108bfad04a20ff4e57c0751f62dd6fdf6b137a6",
+      "purl": "pkg:github/m5stack/M5Unified@0.2.17",
+      "scope": "runtime",
+      "profiles": ["demo", "initial"]
+    },
+    {
+      "name": "Adafruit NeoPixel",
+      "version": "1.15.5",
+      "packageVersion": "1.15.5",
+      "license": "LGPL-3.0-only",
+      "source": "https://github.com/adafruit/Adafruit_NeoPixel/tree/d514fc3beae85dd4c2b19781b93faa47bd6e996f",
+      "purl": "pkg:github/adafruit/Adafruit_NeoPixel@1.15.5",
+      "scope": "runtime",
+      "profiles": ["demo", "initial"]
+    },
+    {
+      "name": "NimBLE-Arduino",
+      "version": "1.4.3",
+      "packageVersion": "1.4.3",
+      "license": "Apache-2.0",
+      "source": "https://github.com/h2zero/NimBLE-Arduino/tree/e2b40749ef1e1aae9b1f5b2647d2bbadc5abb44f",
+      "purl": "pkg:github/h2zero/NimBLE-Arduino@1.4.3",
+      "scope": "runtime",
+      "profiles": ["demo"]
+    },
+    {
+      "name": "AceCommon",
+      "version": "1.6.2",
+      "packageVersion": "1.6.2+sha.8698645",
+      "license": "MIT",
+      "source": "https://github.com/bxparks/AceCommon/tree/8698645868ac4e6631b8fa3d8308d77377b507bd",
+      "purl": "pkg:github/bxparks/AceCommon@8698645868ac4e6631b8fa3d8308d77377b507bd",
+      "scope": "runtime",
+      "profiles": ["demo", "initial"]
+    },
+    {
+      "name": "AceSorting",
+      "version": "1.0.0",
+      "packageVersion": "1.0.0+sha.e58dd60",
+      "license": "MIT",
+      "source": "https://github.com/bxparks/AceSorting/tree/e58dd60a3f3efb09e877c2c8a144f40627ba3359",
+      "purl": "pkg:github/bxparks/AceSorting@e58dd60a3f3efb09e877c2c8a144f40627ba3359",
+      "scope": "runtime",
+      "profiles": ["demo", "initial"]
+    },
+    {
+      "name": "AceTime",
+      "version": "4.1.0",
+      "packageVersion": "4.1.0+sha.3dc2f588",
+      "license": "MIT",
+      "source": "https://github.com/bxparks/AceTime/tree/3dc2f58811e153e02bd16161da579dd201746372",
+      "purl": "pkg:github/bxparks/AceTime@3dc2f58811e153e02bd16161da579dd201746372",
+      "scope": "runtime",
+      "profiles": ["demo", "initial"]
+    },
+    {
+      "name": "IANA Time Zone Database",
+      "version": "2025b",
+      "packageVersion": "bundled by AceTime 4.1.0",
+      "license": "Public domain",
+      "source": "https://data.iana.org/time-zones/releases/tzdb-2025b.tar.lz",
+      "purl": "pkg:generic/iana-tzdb@2025b",
+      "scope": "runtime",
+      "profiles": ["demo", "initial"]
+    },
+    {
+      "name": "ESP-IDF bundled SDK",
+      "version": "4.4.7",
+      "packageVersion": "4.4.7",
+      "license": "Multiple (see COPYRIGHT.rst)",
+      "source": "https://github.com/espressif/esp-idf/tree/v4.4.7",
+      "purl": "pkg:github/espressif/esp-idf@v4.4.7",
+      "scope": "runtime",
+      "profiles": ["demo", "initial"]
+    }
+  ]
+}
